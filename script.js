@@ -1,3 +1,5 @@
+// practicing promises
+
 const btn = document.querySelector('button');
 const moveX = (element, amount, delay) => {
 	return new Promise((resolve, reject) => {
